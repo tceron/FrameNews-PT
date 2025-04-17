@@ -1,4 +1,4 @@
-# Frame_recSys Dataset
+# FrameRecSys Dataset
 
 Find the data available in the data folder 
 
