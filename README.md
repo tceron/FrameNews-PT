@@ -8,7 +8,7 @@ Install all necessary libraries:
 
     pip install -r requirements.txt
 
-For running the experiments, either run:
+The script for these experiments are inside the ./prompting. For running the classification, either run:
 
     bash send_job.sh
 
