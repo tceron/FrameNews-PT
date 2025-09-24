@@ -1,0 +1,4 @@
+prompting/results/google--gemma-*.csv
+prompting/results/gpt*.csv
+prompting/results/meta*.csv
+prompting/results/Qwen*.csv

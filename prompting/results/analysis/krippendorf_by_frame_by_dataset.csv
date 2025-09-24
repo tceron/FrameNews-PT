@@ -1,0 +1,76 @@
+index,Category,Category_label,Agreement Type,Agreement Percentage,Dataset
+0,1,Economic,Annotator Agreement,0.8081481006982256,FrameNews-PT
+1,2,Capacity&resources,Annotator Agreement,0.3908474576271186,FrameNews-PT
+2,3,Morality,Annotator Agreement,0.5938983050847457,FrameNews-PT
+3,4,Fairness&equality,Annotator Agreement,0.5511988011988012,FrameNews-PT
+4,5,"Legality, Constit.",Annotator Agreement,0.7551504251144538,FrameNews-PT
+5,6,Policy prescription,Annotator Agreement,0.7477540707467715,FrameNews-PT
+6,7,Crime & punishment,Annotator Agreement,0.7925820476318726,FrameNews-PT
+7,8,Security & defense,Annotator Agreement,0.6604308390022676,FrameNews-PT
+8,9,Health & safety,Annotator Agreement,0.7079473427596294,FrameNews-PT
+9,10,Quality of life,Annotator Agreement,0.32086167800453524,FrameNews-PT
+10,11,Cultural identity,Annotator Agreement,,FrameNews-PT
+11,12,Public opinion,Annotator Agreement,0.7986554621848739,FrameNews-PT
+12,13,Political,Annotator Agreement,0.829296095753776,FrameNews-PT
+13,14,External regulation,Annotator Agreement,0.8878067053755385,FrameNews-PT
+14,15,Other,Annotator Agreement,0.9411533549464584,FrameNews-PT
+15,1,Economic,gpt-4o-2024-08-06,0.5759773477047188,FrameNews-PT
+16,2,Capacity&resources,gpt-4o-2024-08-06,0.03205998319436365,FrameNews-PT
+17,3,Morality,gpt-4o-2024-08-06,0.2784871115393881,FrameNews-PT
+18,4,Fairness&equality,gpt-4o-2024-08-06,0.41323185894054704,FrameNews-PT
+19,5,"Legality, Constit.",gpt-4o-2024-08-06,0.5661067227760339,FrameNews-PT
+20,6,Policy prescription,gpt-4o-2024-08-06,0.3594908764789072,FrameNews-PT
+21,7,Crime & punishment,gpt-4o-2024-08-06,0.5621176561117309,FrameNews-PT
+22,8,Security & defense,gpt-4o-2024-08-06,0.5377373051396821,FrameNews-PT
+23,9,Health & safety,gpt-4o-2024-08-06,0.5938983050847457,FrameNews-PT
+24,10,Quality of life,gpt-4o-2024-08-06,0.3908474576271186,FrameNews-PT
+25,11,Cultural identity,gpt-4o-2024-08-06,-0.005033557046979942,FrameNews-PT
+26,12,Public opinion,gpt-4o-2024-08-06,0.6655499720826354,FrameNews-PT
+27,13,Political,gpt-4o-2024-08-06,0.6479877158726849,FrameNews-PT
+28,14,External regulation,gpt-4o-2024-08-06,0.6497076023391812,FrameNews-PT
+29,15,Other,gpt-4o-2024-08-06,-0.009739651620153555,FrameNews-PT
+30,1,Economic,xlm_roberta,0.4433298112054589,FrameNews-PT
+31,2,Capacity&resources,xlm_roberta,-0.01697792869269943,FrameNews-PT
+32,3,Morality,xlm_roberta,-0.006722689075630228,FrameNews-PT
+33,4,Fairness&equality,xlm_roberta,-0.029209621993127266,FrameNews-PT
+34,5,"Legality, Constit.",xlm_roberta,0.5784658691062632,FrameNews-PT
+35,6,Policy prescription,xlm_roberta,0.08311128748795282,FrameNews-PT
+36,7,Crime & punishment,xlm_roberta,0.5721428571428571,FrameNews-PT
+37,8,Security & defense,xlm_roberta,0.2143073352840278,FrameNews-PT
+38,9,Health & safety,xlm_roberta,0.4906462585034014,FrameNews-PT
+39,10,Quality of life,xlm_roberta,-0.005033557046979942,FrameNews-PT
+40,11,Cultural identity,xlm_roberta,-0.020442930153321992,FrameNews-PT
+41,12,Public opinion,xlm_roberta,0.49748322147651003,FrameNews-PT
+42,13,Political,xlm_roberta,0.5274428040121717,FrameNews-PT
+43,14,External regulation,xlm_roberta,0.7759072203516648,FrameNews-PT
+44,15,Other,xlm_roberta,-0.06394316163410307,FrameNews-PT
+0,1,Economic,gpt-4o-2024-08-06,0.5198607358732484,MFC
+1,2,Capacity&resources,gpt-4o-2024-08-06,0.38715869365950917,MFC
+2,3,Morality,gpt-4o-2024-08-06,0.4092374400219484,MFC
+3,4,Fairness&equality,gpt-4o-2024-08-06,0.27126153306533596,MFC
+4,5,"Legality, Constit.",gpt-4o-2024-08-06,0.5080751954761438,MFC
+5,6,Policy prescription,gpt-4o-2024-08-06,0.21946749042156533,MFC
+6,7,Crime & punishment,gpt-4o-2024-08-06,0.39597192951564475,MFC
+7,8,Security & defense,gpt-4o-2024-08-06,0.4334138615033899,MFC
+8,9,Health & safety,gpt-4o-2024-08-06,0.3567335736555767,MFC
+9,10,Quality of life,gpt-4o-2024-08-06,0.1697309087897858,MFC
+10,11,Cultural identity,gpt-4o-2024-08-06,0.30912576577093587,MFC
+11,12,Public opinion,gpt-4o-2024-08-06,0.4326856275915095,MFC
+12,13,Political,gpt-4o-2024-08-06,0.5360786383531304,MFC
+13,14,External regulation,gpt-4o-2024-08-06,0.2722449314234179,MFC
+14,15,Other,gpt-4o-2024-08-06,-0.0007247543887904939,MFC
+15,1,Economic,xlm_roberta,0.7027086480377835,MFC
+16,2,Capacity&resources,xlm_roberta,0.6906959237459267,MFC
+17,3,Morality,xlm_roberta,0.6453224433523381,MFC
+18,4,Fairness&equality,xlm_roberta,0.4314887477345908,MFC
+19,5,"Legality, Constit.",xlm_roberta,0.7166756546853633,MFC
+20,6,Policy prescription,xlm_roberta,0.4496768226018295,MFC
+21,7,Crime & punishment,xlm_roberta,0.6133310629474737,MFC
+22,8,Security & defense,xlm_roberta,0.5673136364243543,MFC
+23,9,Health & safety,xlm_roberta,0.6092997314335488,MFC
+24,10,Quality of life,xlm_roberta,0.44031607991563504,MFC
+25,11,Cultural identity,xlm_roberta,0.5815530618681661,MFC
+26,12,Public opinion,xlm_roberta,0.6152656241071,MFC
+27,13,Political,xlm_roberta,0.7446602244000846,MFC
+28,14,External regulation,xlm_roberta,0.6863472125420652,MFC
+29,15,Other,xlm_roberta,-8.047642040875935e-05,MFC
